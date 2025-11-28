@@ -1,7 +1,7 @@
 # 24_Day_Heritage_AI_Challenge_-Advent_Calendar-
 
 
-| # | Theme | Project | Link to Map|
+| # | Theme | Project | Link to Object|
 |---|---|---|---|
 | 1 | Tünnes and Schäl |  |
 | 2 |  | | |
